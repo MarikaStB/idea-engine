@@ -15,6 +15,7 @@ There is a fear that AI takes work from people and creates loss of jobs in the f
 * where to find those skills and motivation
 * match the problems and skills
 
+The topics below will be updated in due course
 
 ## How is it used?
 
