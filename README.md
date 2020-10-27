@@ -9,12 +9,11 @@ Building AI course project: Using AI to collect and match ideas and doers: probl
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+There is a fear that AI takes work from people and creates loss of jobs in the future. Potentially we are too moving into a gig economy. There is a need to match skills and motivation to solve existing problems and I am curious of finding out how AI actually could help people here. 
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+* what problems require people to solve them
+* where to find those skills and motivation
+* match the problems and skills
 
 
 ## How is it used?
